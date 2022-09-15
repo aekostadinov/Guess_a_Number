@@ -1,2 +1,2 @@
-# GuessANumber
+# GuessANumber --- Console game
 Simple Console Game
